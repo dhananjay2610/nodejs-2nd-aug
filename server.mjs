@@ -42,7 +42,7 @@
 
 import express from "express";
 import fs from "fs";
-
+console.log("Hello World");
 const app = express();
 
 app.use(express.json())

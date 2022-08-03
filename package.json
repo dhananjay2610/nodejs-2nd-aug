@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "name": "eduereka-tcs-project",
+  "version": "0.0.1",
+  "description": "This is my first lecture",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "demo",
+    "lecture"
+  ],
+  "author": "Dhananjay",
+  "license": "MIT"
+}
